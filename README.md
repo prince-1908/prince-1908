@@ -10,8 +10,7 @@
 
 - 🌱 I’m currently learning **NextJS & DSA**
 
-- 💬 Ask me about **Front-end web developer with expertise in Javascript, React
-JS & Tailwind CSS, experienced in Next.js13, PostgresSQL and mySQL**
+- 💬 Ask me about **My journey as a FrontEnd Developer**
 
 - 📫 How to reach me **princesinghchouhan7470@gmail.com**
 
