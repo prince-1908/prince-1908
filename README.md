@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Prince Singh Chouhan</h1>
-<h3 align="center">Front-end Web Developer with expertise in Javascript, React JS & Tailwind CSS, experienced in Next.js13</h3>
+<h3 align="center">Front-end Web Developer with expertise in Javascript, React JS, Tailwind CSS & Next.js13, experienced in Blockchain technologies like Web3, Smart Contract, Tokens</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-1908&label=Profile%20views&color=0e75b6&style=flat" alt="prince-1908" /> </p>
 
@@ -13,6 +13,25 @@
 - 💬 Ask me about **My journey as a FrontEnd Developer**
 
 - 📫 How to reach me **princesinghchouhan7470@gmail.com**
+
+<h2>Work Experience:</h2>
+<p><b>FrontEnd Developer</b> at Swapsicle | 01,May 2024 - present</p>
+
+![logo-light2](https://github.com/prince-1908/prince-1908/assets/97910827/eb499585-ee57-4767-afd6-758c2b7b24e3)
+
+<br>
+
+<p><b>FrontEnd Developer Intern</b> at CelticLab pvt. ltd. | 20, July 2023 - 5, Nov 2023</p>
+
+![logo](https://github.com/prince-1908/prince-1908/assets/97910827/49dfcc4f-765c-46aa-aff2-98daefcaa797)
+
+<br>
+
+<p><b>Web Developer Intern</b> at Fireshark | 7, Nov 2022 - 7, Feb 2023</p>
+
+![Fireshark-Final-Logo-Updated-05-Dark-BG-2-1](https://github.com/prince-1908/prince-1908/assets/97910827/579d5a54-c98c-4e63-b7dd-5ceb446bf8e4)
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
