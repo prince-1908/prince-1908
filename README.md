@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/prince_1908" target="blank"><img src="https://img.shields.io/twitter/follow/prince_1908?logo=twitter&style=for-the-badge" alt="prince_1908" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **NextJS**
 
-- 🌱 I’m currently learning **NextJS & DSA**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **My journey as a FrontEnd Developer**
 
